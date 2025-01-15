@@ -1,7 +1,7 @@
 Utilized statistical techniques and data visualization for detailed transaction analysis.Provided actionable insights to improve customer experience and transaction security.
 
 Dashboard Link
-https://app.powerbi.com/groups/me/reports/64594f74-2f53-4004-bae6-1c6ad134595c/353aa8eab204da8055c0?experience=power-bi
+https://app.powerbi.com/links/fhOHII99nS?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c0030&pbi_source=linkShare
 
 ![Screenshot 2024-12-22 180138](https://github.com/user-attachments/assets/7ca55b25-cfba-4a12-9384-ba8c46091a42)
 
